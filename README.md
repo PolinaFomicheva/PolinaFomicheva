@@ -5,8 +5,8 @@
 🌐/🌐/🌐
 
 # Вот, что я умею:
-- JavaScript ([Дипломное задание по курсу «JavaScript-программирование для начинающих» - ](https://github.com/PolinaFomicheva/cinema-diplom))
--  HTML-вёрстка ([Дипломный проект на курсе «HTML-вёрстка: с нуля до первого макета» - ](https://github.com/PolinaFomicheva/noemi-diplom))
+- JavaScript ([Дипломное задание по курсу «JavaScript-программирование для начинающих»](https://github.com/PolinaFomicheva/cinema-diplom))
+-  HTML-вёрстка ([Дипломный проект на курсе «HTML-вёрстка: с нуля до первого макета»](https://github.com/PolinaFomicheva/noemi-diplom))
 -    React JS - изучаю ([домашка! - ](https://github.com/PolinaFomicheva/ra16-homeworks)) 
 
 ⦾ Домашние работы по курсы JS:
@@ -19,5 +19,5 @@
 
 
 # Сертификаты Нетологии:
-([JavaScript - ](https://netology.ru/backend/api/user/programs/32647/pdf_certificate))
+([JavaScript](https://netology.ru/backend/api/user/programs/32647/pdf_certificate))
 
