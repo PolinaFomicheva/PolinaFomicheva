@@ -19,5 +19,5 @@
 
 
 # Сертификаты Нетологии:
-/ в ожидании 
+([JavaScript - ](https://netology.ru/backend/api/user/programs/32647/pdf_certificate))
 
