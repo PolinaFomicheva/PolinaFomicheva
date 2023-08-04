@@ -20,4 +20,5 @@
 
 # Сертификаты Нетологии:
 ([JavaScript](https://netology.ru/backend/api/user/programs/32647/pdf_certificate))
+([React](https://netology.ru/backend/api/user/programs/39137/pdf_certificate))
 
